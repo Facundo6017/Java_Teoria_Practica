@@ -70,16 +70,6 @@ public class Primitivos {
         System.out.println("tipo char valor minimo:"+Character.MIN_VALUE);
 
 
-        /*
-        tipo string
-          String cadena = "hola";
-         System.out.println("tipo string corresponde byte a:"+String.BYTES);
-         System.out.println("tipo long corresponde bites a:"+String.SIZE);
-         System.out.println("tipo long valor maximo:"+String.MAX_VALUE);
-         System.out.println("tipo long valor minimo:"+String.MIN_VALUE);
-        */
-
-
     }
 
 }
